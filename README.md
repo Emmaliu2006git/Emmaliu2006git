@@ -3,10 +3,10 @@
 I am Emma/Yueqi Liu, currently pursuing my dual degree in Computer Science and Math in uiuc. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Emma-Liu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](www.linkedin.com/in/yueqi-liu-uiuc)
-[![Email Badge](https://img.shields.io/badge/-yueqil2@illinois.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yueqil2@illinois.edu)](mailto:yueqil2@illinois.edu)
+[![Gmail Badge](https://img.shields.io/badge/-yueqil2@illinois.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yueqil2@illinois.edu)](mailto:yueqil2@illinois.edu)
 
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Emmaliu2006git&theme=github)](https://github.com/Emmaliu2006git)
+[![Emma's github activity graph](https://activity-graph.herokuapp.com/graph?username=Emmaliu2006git&theme=github)](https://github.com/Emmaliu2006git)
 
 ## ⚡ Technologies
 
