@@ -6,7 +6,7 @@ I am Emma/Yueqi Liu, currently pursuing my dual degree in Computer Science and M
 [![Gmail Badge](https://img.shields.io/badge/-yueqi12%40illinois%2Eedu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yueqil2@illinois.edu)
 
 
-[![Emma's github activity graph](https://activity-graph.herokuapp.com/graph?username=Emmaliu2006git&theme=github)](https://github.com/Emmaliu2006git)
+[![Emma's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emmaliu2006git&theme=github)](https://github.com/Emmaliu2006git)
 
 ## ⚡ Technologies
 
